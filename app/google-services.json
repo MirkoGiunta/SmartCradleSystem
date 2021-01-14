@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385309355561",
+    "project_id": "smartcradlesystemdb",
+    "storage_bucket": "smartcradlesystemdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385309355561:android:e103cb0f97e2bcfc9ef638",
+        "android_client_info": {
+          "package_name": "com.example.smartcradlesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385309355561-8poiecugk5sbkit24f9jk9fbe623eitd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartcradlesystem",
+            "certificate_hash": "60fb5a2b5122d1baf611d17a11db86ef5b0fe34c"
+          }
+        },
+        {
+          "client_id": "385309355561-ftsaicm4enqmhcd6rsrv88i2vmh94nu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdQJckxVfqwxCOAmA1UH2W1_F44us8vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385309355561-ftsaicm4enqmhcd6rsrv88i2vmh94nu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
